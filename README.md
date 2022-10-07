@@ -27,6 +27,8 @@
 🏢 I’m currently working in [Knoldus](https://www.knoldus.com/home) as **Sr. DevOps Engineer**
 
 🌱 I’m currently working on **Setting up infra using Terraform over AWS**
+🌱 I’m currently working on **Setting up AKS,GKE, EKS**
+
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
 
